@@ -1,6 +1,6 @@
 # Mohammad Rafi Sheikh 
 
-I am an undergraduate student in Department of Mathematics. I love to code and learn those things what make me curious about the future .  I have deep curiosity about how machines learn, reason, and understand how the world become more fucntional  and easier for human . At this time My goal is to build a strong foundation in core computer science and mathematics , Do advanced research in Artificial Intelligence and Machine Learning. 
+I am an undergraduate student in Department of Mathematics. I love to code and learn those things what make me curious  and help me to reach my goal  .  I have deep curiosity about how machines learn, reason, and understand how the world become more fucntional  and easier for human . At this time My goal is to build a strong foundation in core computer science and mathematics , Do advanced research in Artificial Intelligence and Machine Learning. 
 ---
 ### 🧬 Research & Technical Interests
 * **Foundations:** Statistical Learning, Optimization, and Linear Algebra.
@@ -20,7 +20,7 @@ I am an undergraduate student in Department of Mathematics. I love to code and l
 </p>
 ---
 
-### 🤝 Let's Connect
+### 🤝  Connect
 I am always open to discussing interesting ML problems, research ideas, or potential academic collaborations.
 
 * **Email:**  : mister.rafi.sheikh@gmail.com
