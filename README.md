@@ -7,32 +7,19 @@ A passionate researcher and developer focused on solving real-world problems usi
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 Artificial Intelligence & Machine Learning
-[![TensorFlow](https://shields.io)](https://tensorflow.org)
-[![PyTorch](https://shields.io)](https://pytorch.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-[![Keras](https://shields.io)](https://keras.io)
-[![OpenCV](https://shields.io)](https://opencv.org)
+![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![Scikit-Learn](https://shields.io) ![Keras](https://shields.io) ![OpenCV](https://shields.io)
 
 ### 📊 Data Science & Analytics
-[![Python](https://shields.io)](https://python.org)
-[![R](https://shields.io)](https://r-project.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![NumPy](https://shields.io)](https://numpy.org)
+![Python](https://shields.io) ![R](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Streamlit](https://shields.io)
 
-### 🗄️ Databases
-[![PostgreSQL](https://shields.io)](https://postgresql.org)
-[![MySQL](https://shields.io)](https://mysql.com)
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![Supabase](https://shields.io)
 
 ### 🖥️ Data Visualization & BI Tools
-[![Power Bi](https://shields.io)](https://microsoft.com)
-[![Tableau](https://shields.io)](https://tableau.com)
-[![Microsoft Excel](https://shields.io)](https://microsoft.com)
+![Power BI](https://shields.io) ![Tableau](https://shields.io) ![Microsoft Excel](https://shields.io)
 
 ### ⚙️ DevOps & Tools
-[![Git](https://shields.io)](https://git-scm.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![Docker](https://shields.io)](https://docker.com)
-[![Jupyter Notebook](https://shields.io)](https://jupyter.org)
+![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) ![Jupyter](https://shields.io)
 
 ---
 
