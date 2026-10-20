@@ -1,28 +1,102 @@
-# Mohammad Rafi Sheikh 
+# Hi, I'm Rafi Sheikh 👋
 
-I am an undergraduate student in Department of Mathematics. I love to code and learn those things what make me curious  and help me to reach my goal  .  I have deep curiosity about how machines learn, reason, and understand how the world become more fucntional  and easier for human . At this time My goal is to build a strong foundation in core computer science and mathematics , Do advanced research in Artificial Intelligence and Machine Learning. 
----
-### 🧬 Research & Technical Interests
-* **Foundations:** Statistical Learning, Optimization, and Linear Algebra.
-* **Deep Learning:** Neural Network Architectures, Computer Vision, and Sequence Modeling.
-* **Data Pipelines:** Exploratory Data Analysis (EDA), Feature Engineering, and Data Preprocessing.
----
-### 🛠️ Core Toolkit
-* **Languages & Querying:** Python, Javascript .
-* **Scientific Computing & ML:** NumPy, Pandas, Matplotlib,Seaborn, Scikit-Learn 
-* **Deep Learning Frameworks:** PyTorch *(Currently diving deep)*
-* **Tools & Workflow:** Git, GitHub, Linux Shell, Jupyter Ecosystem
----
-### 📊 GitHub Activity & Insights
-<p align="left">
-  <img src="https://vercel.app" alt="Rafi Sheikh GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
+A passionate researcher and developer focused on solving real-world problems using Artificial Intelligence, Machine Learning, and Data Science. Experienced in building end-to-end data pipelines and publishing data-driven research.
+
 ---
 
-### 🤝  Connect
-I am always open to discussing interesting ML problems, research ideas, or potential academic collaborations.
+## 🛠️ Tech Stack & Skills
 
-* **Email:**  : mister.rafi.sheikh@gmail.com
-* **LinkedIn:** : https://www.linkedin.com/in/rafi-sheikh-1bb635263/
-* **Academic/Personal Website:** *(To be added as projects grow)*
+### 🤖 Artificial Intelligence & Machine Learning
+![TensorFlow](https://shields.io)
+![PyTorch](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![Keras](https://shields.io)
+![OpenCV](https://shields.io)
+
+### 📊 Data Science & Analytics
+![Python](https://shields.io)
+![R](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+
+### 🗄️ Databases
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+
+### 🖥️ Data Visualization & BI Tools
+![Power Bi](https://shields.io)
+![Tableau](https://shields.io)
+![Microsoft Excel](https://shields.io)
+
+### ⚙️ DevOps & Tools
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Docker](https://shields.io)
+![Jupyter Notebook](https://shields.io)
+
+---
+
+## 📚 Research Publications & Papers
+
+### 1. [আপনার ১ম রিসার্চ পেপারের টাইটেল]
+- **Journal/Conference:** Published in [জার্নাল বা কনফারেন্সের নাম, যেমন: IEEE / Springer] ([পাবলিশিং বছর])
+- **Core Focus:** [১ লাইনে পেপারের মূল বিষয়বস্তু লিখুন]
+- **Key Contribution:** [১ লাইনে আপনার মূল ফাইন্ডিং বা কন্ট্রিবিউশন লিখুন]
+- **🔗 [Read Full Paper / Publisher Link](লিংক দিন) | 💾 [Code Repository](লিংক দিন)**
+
+### 2. [আপনার ২য় রিসার্চ পেপারের টাইটেল]
+- **Journal/Conference:** Published in [জার্নাল বা কনফারেন্সের নাম] ([পাবলিশিং বছর])
+- **Core Focus:** [১ লাইনে পেপারের মূল বিষয়বস্তু লিখুন]
+- **🔗 [Read Full Paper / Publisher Link](লিংক দিন)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI / ML PROJECTS
+
+#### 1. [১ম AI প্রজেক্টের নাম, যেমন: Real-time Object Detection Pipeline]
+- **Business Problem/Goal:** [প্রজেক্টটি কেন বানিয়েছেন বা কী কাজ করে]
+- **Tech Stack:** Python, PyTorch, OpenCV, YOLOv8
+- **Key Outcome:** [প্রজেক্টের ফলাফল বা অ্যাকুরেসি, যেমন: Achieved 94% mAP on custom dataset]
+- **🔗 [View GitHub Repository](লিংক দিন) | 📊 [Live Demo](লিংক দিন)**
+
+#### 2. [২য় AI প্রজেক্টের নাম, যেমন: Customer Sentiment Analysis Model]
+- **Business Problem/Goal:** [কী প্রবলেম সলভ করে]
+- **Tech Stack:** Python, HuggingFace, BERT, Streamlit
+- **🔗 [View GitHub Repository](লিংক দিন)**
+
+#### 3. [৩য় AI প্রজেক্টের নাম]
+- **Brief:** [সংক্ষিপ্ত বিবরণ]
+- **🔗 [View GitHub Repository](লিংক দিন)**
+
+---
+
+### 📊 DATA SCIENCE PROJECTS
+
+#### 1. [১ম Data Science প্রজেক্টের নাম, যেমন: E-Commerce Customer Cohort & Retention Analysis]
+- **Business Problem/Goal:** Analyzing customer churn and lifetime value patterns.
+- **Tech Stack:** PostgreSQL (CTEs, Window Functions), Python (Pandas), Power BI
+- **Key Outcome:** Identified a 25% drop-off rate in Month 2 and built a predictive retention dashboard.
+- **🔗 [View GitHub Repository](লিংক দিন) | 📊 [View Power BI Dashboard](লিংক দিন)**
+
+#### 2. [২য় Data Science প্রজেক্টের নাম, যেমন: Predictive Store Demand Forecasting]
+- **Business Problem/Goal:** Forecasting product demand to optimize supply chain inventory.
+- **Tech Stack:** Python, Scikit-Learn, LightGBM, Advanced SQL
+- **🔗 [View GitHub Repository](লিংক দিন)**
+
+#### 3. [৩য় Data Science প্রজেক্টের নাম]
+- **Brief:** [সংক্ষিপ্ত বিবরণ]
+- **🔗 [View GitHub Repository](লিংক দিন)**
+
+---
+
+## 📈 GitHub Analytics
+![Your GitHub Stats](https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radial)
+
+---
+
+## 📬 Let's Connect!
+- 💼 LinkedIn: [://linkedin.com](লিংক দিন)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio Website: [yourwebsite.com](লিংক দিন)
