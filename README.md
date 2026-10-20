@@ -6,22 +6,13 @@ A passionate researcher and developer focused on solving real-world problems usi
 
 ## 🛠️ Tech Stack & Skills
 
-### 🤖 Artificial Intelligence & Machine Learning
-![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![Scikit-Learn](https://shields.io) ![Keras](https://shields.io) ![OpenCV](https://shields.io)
-
-### 📊 Data Science & Analytics
-![Python](https://shields.io) ![R](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Streamlit](https://shields.io)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![Supabase](https://shields.io)
-
-### 🖥️ Data Visualization & BI Tools
-![Power BI](https://shields.io) ![Tableau](https://shields.io) ![Microsoft Excel](https://shields.io)
-
-### ⚙️ DevOps & Tools
-![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) ![Jupyter](https://shields.io)
-
----
+| Category | Skills & Tools Tools Tools |
+| :--- | :--- |
+| **🤖 AI & Machine Learning** | `PYTHON` `TENSORFLOW` `PYTORCH` `SCIKIT-LEARN` `KERAS` `OPENCV` `YOLO` |
+| **📊 Data Science & Analytics** | `PYTHON` `R` `PANDAS` `NUMPY` `STREAMLIT` `SCIPY` |
+| **🗄️ Databases & Cloud** | `POSTGRESQL` `MYSQL` `SUPABASE` `GOOGLE BIGQUERY` |
+| **🖥️ BI & Data Visualization** | `POWER BI` `TABLEAU` `MICROSOFT EXCEL` `PLOTLY` `CANVA` |
+| **⚙️ DevOps & Developer Tools** | `GIT` `GITHUB` `DOCKER` `VS CODE` `MARKDOWN` `WINDOWS TERMINAL` |
 
 ## 📚 Research Publications & Papers
 
