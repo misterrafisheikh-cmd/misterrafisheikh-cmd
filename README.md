@@ -35,12 +35,6 @@ An end-to-end data analysis project using the UCI Online Retail dataset and Post
 
 🔗 [View Project on GitHub](https://github.com/misterrafisheikh-cmd/Data-Detective)
 
-
----
-
-## 📈 GitHub Analytics
-![Your GitHub Stats](https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radial)
-
 ---
 
 ## 📬 Let's Connect!
