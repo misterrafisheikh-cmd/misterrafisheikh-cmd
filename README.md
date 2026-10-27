@@ -14,58 +14,27 @@ A passionate researcher and developer focused on solving real-world problems usi
 | **🖥️ BI & Data Visualization** | `POWER BI` `TABLEAU` `MICROSOFT EXCEL` `PLOTLY` `CANVA` |
 | **⚙️ DevOps & Developer Tools** | `GIT` `GITHUB` `DOCKER` `VS CODE` `MARKDOWN` `WINDOWS TERMINAL` |
 
-## 📚 Research Publications & Papers
 
-### 1. [আপনার ১ম রিসার্চ পেপারের টাইটেল]
-- **Journal/Conference:** Published in [জার্নাল বা কনফারেন্সের নাম, যেমন: IEEE / Springer] ([পাবলিশিং বছর])
-- **Core Focus:** [১ লাইনে পেপারের মূল বিষয়বস্তু লিখুন]
-- **Key Contribution:** [১ লাইনে আপনার মূল ফাইন্ডিং বা কন্ট্রিবিউশন লিখুন]
-- **🔗 [Read Full Paper / Publisher Link](লিংক দিন) | 💾 [Code Repository](লিংক দিন)**
-
-### 2. [আপনার ২য় রিসার্চ পেপারের টাইটেল]
-- **Journal/Conference:** Published in [জার্নাল বা কনফারেন্সের নাম] ([পাবলিশিং বছর])
-- **Core Focus:** [১ লাইনে পেপারের মূল বিষয়বস্তু লিখুন]
-- **🔗 [Read Full Paper / Publisher Link](লিংক দিন)**
-
----
 
 ## 🚀 Featured Projects
 
-### 🧠 AI / ML PROJECTS
-
-#### 1. [১ম AI প্রজেক্টের নাম, যেমন: Real-time Object Detection Pipeline]
-- **Business Problem/Goal:** [প্রজেক্টটি কেন বানিয়েছেন বা কী কাজ করে]
-- **Tech Stack:** Python, PyTorch, OpenCV, YOLOv8
-- **Key Outcome:** [প্রজেক্টের ফলাফল বা অ্যাকুরেসি, যেমন: Achieved 94% mAP on custom dataset]
-- **🔗 [View GitHub Repository](লিংক দিন) | 📊 [Live Demo](লিংক দিন)**
-
-#### 2. [২য় AI প্রজেক্টের নাম, যেমন: Customer Sentiment Analysis Model]
-- **Business Problem/Goal:** [কী প্রবলেম সলভ করে]
-- **Tech Stack:** Python, HuggingFace, BERT, Streamlit
-- **🔗 [View GitHub Repository](লিংক দিন)**
-
-#### 3. [৩য় AI প্রজেক্টের নাম]
-- **Brief:** [সংক্ষিপ্ত বিবরণ]
-- **🔗 [View GitHub Repository](লিংক দিন)**
 
 ---
 
-### 📊 DATA SCIENCE PROJECTS
+### 📊 DATA ANALYSIS PROJECTS
 
-#### 1. [১ম Data Science প্রজেক্টের নাম, যেমন: E-Commerce Customer Cohort & Retention Analysis]
-- **Business Problem/Goal:** Analyzing customer churn and lifetime value patterns.
-- **Tech Stack:** PostgreSQL (CTEs, Window Functions), Python (Pandas), Power BI
-- **Key Outcome:** Identified a 25% drop-off rate in Month 2 and built a predictive retention dashboard.
-- **🔗 [View GitHub Repository](লিংক দিন) | 📊 [View Power BI Dashboard](লিংক দিন)**
+## 🚀 Featured Projects
 
-#### 2. [২য় Data Science প্রজেক্টের নাম, যেমন: Predictive Store Demand Forecasting]
-- **Business Problem/Goal:** Forecasting product demand to optimize supply chain inventory.
-- **Tech Stack:** Python, Scikit-Learn, LightGBM, Advanced SQL
-- **🔗 [View GitHub Repository](লিংক দিন)**
+### 🔎 Data Detective — Retail Sales Analysis
 
-#### 3. [৩য় Data Science প্রজেক্টের নাম]
-- **Brief:** [সংক্ষিপ্ত বিবরণ]
-- **🔗 [View GitHub Repository](লিংক দিন)**
+An end-to-end data analysis project using the UCI Online Retail dataset and PostgreSQL to investigate revenue trends, compare matched periods, and analyze the impact of an unusually large transaction.
+
+- **Tools:** Python, Pandas, PostgreSQL, SQL, Matplotlib
+- **Key Finding:** December revenue was initially 40.63% higher than the matched November period, but after excluding one unusually large invoice for sensitivity analysis, the increase was approximately 3.54%.
+- **Focus:** Data cleaning, SQL analysis, trend investigation, and outlier sensitivity analysis.
+
+🔗 [View Project on GitHub](https://github.com/YOUR-USERNAME/data-detectiv)
+
 
 ---
 
@@ -75,6 +44,6 @@ A passionate researcher and developer focused on solving real-world problems usi
 ---
 
 ## 📬 Let's Connect!
-- 💼 LinkedIn: [://linkedin.com](লিংক দিন)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio Website: [yourwebsite.com](লিংক দিন)
+- 💼 LinkedIn: https://www.linkedin.com/in/mister-rafi-sheikh
+- 📧 Email:mister.rafi.sheikh@gmail.com
+- 🌐 Portfolio Website: https://rafisheikh.vercel.app
