@@ -33,7 +33,7 @@ An end-to-end data analysis project using the UCI Online Retail dataset and Post
 - **Key Finding:** December revenue was initially 40.63% higher than the matched November period, but after excluding one unusually large invoice for sensitivity analysis, the increase was approximately 3.54%.
 - **Focus:** Data cleaning, SQL analysis, trend investigation, and outlier sensitivity analysis.
 
-🔗 [View Project on GitHub](https://github.com/YOUR-USERNAME/data-detectiv)
+🔗 [View Project on GitHub](https://github.com/misterrafisheikh-cmd/Data-Detective)
 
 
 ---
