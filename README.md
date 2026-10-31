@@ -9,9 +9,9 @@ A passionate researcher and developer focused on solving real-world problems usi
 | Category | Skills & Tools Tools Tools |
 | :--- | :--- |
 | **🤖 AI & Machine Learning** | `PYTHON` `TENSORFLOW` `PYTORCH` `SCIKIT-LEARN` `KERAS` `OPENCV` `YOLO` |
-| **📊 Data Science & Analytics** | `PYTHON` `R` `PANDAS` `NUMPY` `STREAMLIT` `SCIPY` |
-| **🗄️ Databases & Cloud** | `POSTGRESQL` `MYSQL` `SUPABASE` `GOOGLE BIGQUERY` |
-| **🖥️ BI & Data Visualization** | `POWER BI` `TABLEAU` `MICROSOFT EXCEL` `PLOTLY` `CANVA` |
+| **📊 Data Science & Analytics** | `PYTHON` `PANDAS` `NUMPY` `STREAMLIT` `SCIPY` |
+| **🗄️ Databases & Cloud** | `POSTGRESQL` `SUPABASE` `GOOGLE BIGQUERY` |
+| **🖥️ BI & Data Visualization** | `POWER BI`  `MICROSOFT EXCEL` `PLOTLY` `CANVA` |
 | **⚙️ DevOps & Developer Tools** | `GIT` `GITHUB` `DOCKER` `VS CODE` `MARKDOWN` `WINDOWS TERMINAL` |
 
 
